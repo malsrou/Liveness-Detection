@@ -5,6 +5,9 @@ The following Git Repository provides the code for the demo presented at the Zak
 
 It is important to note that the models are not trained on the whole dataset of CelebA-Spoof or ForgeryNet, in the upcoming update we will include the weights and model architecture of MSIICNet that have been trained on the full datasets. 
 
+The weights for the VGG19 model and for the MSIICNNet can be found here: 
+https://drive.google.com/drive/folders/1vjAhE78F6IZhv7vvw3uH4M5M0qHDKuB1?usp=sharing
+
 
 
 
